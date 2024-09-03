@@ -38,9 +38,11 @@ The main objective of this project is to accurately predict stock prices using m
 ## Results
 - **Best Model**: [Model Name, e.g., LSTM]
 - **Performance Metrics**:
-  - Mean Absolute Error (MAE): [Value]
-  - Root Mean Squared Error (RMSE): [Value]
-  - R-squared: [Value]
+  - Mean Absolute Error (MAE): [0.5760518426578494]
+  - Root Mean Squared Error (RMSE): [1.1786371138497678]
+  - R-squared: [0.9998678578326198]
+  - MSE 1.3891854461441104
+
 - **Visualizations**: Include plots showing actual vs predicted prices, loss curves, etc.
 
 ## Challenges Faced
